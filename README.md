@@ -61,6 +61,3 @@ if __name__ == '__main__':
 
 This will start a local server at `localhost:5000`. You can make POST requests to `localhost:5000/predict` to get predictions from your model.
 
-Remember, this is a very basic example. Depending on your specific needs and the complexity of your model, you might need to adjust the code. For example, you might need to preprocess the input data or postprocess the model's output before returning it. You might also want to add error handling to make your API more robust. 
-
-I hope this helps! Let me know if you have any questions. Happy coding! 😊
